@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @MarcosM12
-- 👀 I’m interested in programming software to automate boring tasks :).
+- 👀 I’m interested in computer networks and trouibleshooting.
 
-- 🌱 I’m currently doing a electronics and computer engineering course. I'm always looking foward to learn other programming languages 
-through making projects that I consider intersting. These projects are available in this github so I can follow my learning journey.
+- 🌱  I'm always looking foward to learn more about computer networks through making projects that I consider intersting. These projects are available in this github so I can follow my learning journey.
+
+- :dart: Currently my goal is to finish persuing the Cisco CCNA certification.
 
 - 📫 How to reach me:
 email: mmt.mateus@campus.fct.unl.pt
